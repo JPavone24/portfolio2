@@ -1,0 +1,20 @@
+
+body{
+  transform: rotate(90deg);
+}
+span{
+  font-size: 40px;
+  margin-right: 50px;
+}
+#jessica{
+  position:absolute;
+  top:50%;
+  left: 0px;
+  color: lightgreen;
+  font-size: 100px;
+  transform: rotate(270deg);
+}
+
+#artist{
+ color:red
+}
